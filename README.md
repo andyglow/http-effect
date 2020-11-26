@@ -1,2 +1,7 @@
-# http-effect
-Scala Http Effect
+# Effects
+
+## Result
+// TODO
+
+## Transformations
+// TODO

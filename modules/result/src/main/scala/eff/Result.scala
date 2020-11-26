@@ -9,8 +9,8 @@ import scala.util.control.{NoStackTrace, NonFatal}
   *
   * 3 constructions allowed
   * - {{{Ok(val)}}} for positive result
-  * - {{{Err.Message(msg)}}} for negative result represented as a string
-  * - {{{Err.Stack(ex)}}} for negative result represented as throwable
+  * - {{{Err.Msg(msg)}}} for negative result represented as a string
+  * - {{{Err.Exception(ex)}}} for negative result represented as throwable
   *
   * @tparam T Value Type
   */
