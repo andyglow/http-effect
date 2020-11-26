@@ -1,0 +1,3 @@
+package eff
+
+trait ScalaVersionSpecific
